@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "841674317462",
+    "firebase_url": "https://external-login-test-8d9a9.firebaseio.com",
+    "project_id": "external-login-test-8d9a9",
+    "storage_bucket": "external-login-test-8d9a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841674317462:android:112175dd7a3a143c1cacb7",
+        "android_client_info": {
+          "package_name": "com.example.external_login_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841674317462-3mmq7r9qtk63t1n58ka46gem4lc0q74k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoUHXh1tdXZbOSH0ZSNl7zqD42E1CtTXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841674317462-3mmq7r9qtk63t1n58ka46gem4lc0q74k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
